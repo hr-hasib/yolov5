@@ -1,6 +1,7 @@
 # yolov5汉化版
 
 ### 近期更新
+- [**v6.2 版本**](https://github.com/ultralytics/yolov5/releases/tag/v6.2): 新增yolov5分类模型, 适配苹果M1/M2芯片，引入ClearML和Deci.ai。
 - [**v6.1 版本**](https://github.com/ultralytics/yolov5/releases/tag/v6.1)：现在支持11种格式的模型导出和推理，更新了预训练权重，指标上相较v6.0好了一点。  
 现在支持导出和推理的模型有：`PyTorch(.pt)`, `TorchScript(.torchscript)`, `ONNX(.onnx)`, `OpenVINO`, `TensorRT(.engine)`, `CoreML(.mlmodel)`, `TensorFlow SavedModel`, `Tensorflow GraphDef(.pb)`, `TensorFlow Lite(.tflite)`, `TensorFlow Edge TPU(.tflite)`, `Tensorflow.js`。  
 - [**v6.0 版本**](https://github.com/ultralytics/yolov5/releases/tag/v6.0) ： 新增yolov5 nano模型，其他模型结构也有修改，模型转换/导出友好，精度基本不变，速度略有提升。
@@ -42,8 +43,9 @@ yolov5按从小到大分为五个模型yolov5n、yolov5s、yolov5m、yolov5l、y
 
 #### 2. yolov5版本：
 
-- 2022年2月22日：[v6.1 release](https://github.com/ultralytics/yolov5/releases/tag/v6.1)：支持11种格式的模型导出和推理，更新模型权重，相较v6.0版mAP更高。
-- 2021年10月12日：[v6.0 release](https://github.com/ultralytics/yolov5/releases/tag/v6.0) ： 新增yolov5 nano模型，其他模型结构也有修改，模型转换/导出友好，精度基本不变，速度略有提升。
+- 2022年8月17日：[v6.2 release](https://github.com/ultralytics/yolov5/releases/tag/v6.2)
+- 2022年2月22日：[v6.1 release](https://github.com/ultralytics/yolov5/releases/tag/v6.1)
+- 2021年10月12日：[v6.0 release](https://github.com/ultralytics/yolov5/releases/tag/v6.0)
 - 2021年4月12日：[v5.0 release](https://github.com/ultralytics/yolov5/releases/tag/v5.0)
 - 2021年1月5日：[v4.0 release](https://github.com/ultralytics/yolov5/releases/tag/v4.0)
 - 2020年10月29日：[v3.1 release](https://github.com/ultralytics/yolov5/releases/tag/v3.1)
